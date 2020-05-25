@@ -1,0 +1,4 @@
+# ignore all logs
+*.log
+#hidden system files, such as .DS_Store 
+**/.DS_Store
